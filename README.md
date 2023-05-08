@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Aryan Gupta</h1> -->
-<h3 align="center">Sophomore @Indian Institute of Information Technology Sonepat || Pupil @Codeforces || 3 ⭐ @Codechef || Machine Learning</h3>
+<h3 align="center">GSoC '23 @OSGeo | ML Lead @ Enigmatics Club | Sophomore @iiit Sonepat | Pupil Codeforces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1010&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1010" /> </p>
 
