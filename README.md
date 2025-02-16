@@ -1,5 +1,4 @@
 <!-- <h1 align="center">Hi 👋, I'm Aryan Gupta</h1> -->
-<h3 align="center">AI/ML Intern Oneplus Research | GSoC '23 @OSGeo | ML Lead @ Enigmatics Club | Sophomore @iiit Sonepat | Pupil Codeforces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1010&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1010" /> </p>
 
@@ -20,6 +19,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan1010&show_icons=true&locale=en&layout=compact" alt="aryan1010" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan1010&show_icons=true&locale=en" alt="aryan1010" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan1010&show_icons=true&locale=en" alt="aryan1010" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1010&" alt="aryan1010" /></p> -->
